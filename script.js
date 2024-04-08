@@ -7,3 +7,6 @@
   else {
   fetch("https://www.cacciaapi.altervista.org/login.php/loginIpad", {
    method: "POST", 
+   headers: {
+    "Content-Type": "application/json",
+   },
