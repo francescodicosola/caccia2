@@ -1,1 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Social Media per il Lavoro</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Social Media per il Lavoro</h1>
+        <p>Benvenuti nel nostro sito web dedicato all'utilizzo dei social media nel contesto lavorativo.</p>
+        <h2>Vantaggi dei Social Media per il Lavoro</h2>
+        <ul>
+            <li>Comunicazione e collaborazione</li>
+            <li>Networking professionale</li>
+            <li>Promozione e marketing</li>
+            <li>Feedback e customer service</li>
+            <li>Ricerca e analisi di mercato</li>
+            <li>Formazione e sviluppo professionale</li>
+            <li>Brand building e visibilità</li>
+            <li>Recruiting e employer branding</li>
+        </ul>
+        <h2>Risorse Utili</h2>
+        <p>Ecco alcuni link utili per saperne di più sull'argomento:</p>
+        <ul>
+            <li><a href="https://www.linkedin.com/">LinkedIn</a></li>
+            <li><a href="https://business.facebook.com/">Facebook Business</a></li>
+            <li><a href="https://business.twitter.com/en.html">Twitter for Business</a></li>
+            <li><a href="https://www.instagram.com/business/">Instagram for Business</a></li>
+        </ul>
+    </div>
+</body>
+</html>
 
