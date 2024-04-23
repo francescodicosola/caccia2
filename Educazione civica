@@ -8,8 +8,8 @@
 </head>
 <body>
     <div class="container">
-        <h1>Social Media per il Lavoro</h1>
-        <p>Benvenuti nel nostro sito web dedicato all'utilizzo dei social media nel contesto lavorativo.</p>
+        <h1 class="center">Social Media per il Lavoro</h1>
+        <p class="center">Benvenuti nel nostro sito web dedicato all'utilizzo dei social media nel contesto lavorativo.</p>
         <h2>Vantaggi dei Social Media per il Lavoro</h2>
         <ul>
             <li>Comunicazione e collaborazione</li>
@@ -32,4 +32,3 @@
     </div>
 </body>
 </html>
-
